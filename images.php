@@ -17,19 +17,19 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">PROFILE</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">PROFILE</a>
                   </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="aboutus.html">ABOUT US</a>
+                <a class="nav-link active" aria-current="page" href="aboutus.php">ABOUT US</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="register.html">REGISTER</a>
+                <a class="nav-link active" aria-current="page" href="register.php">REGISTER</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="login.html">LOGIN</a>
+                <a class="nav-link active" aria-current="page" href="login.php">LOGIN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="images.html">IMAGES</a>
+                <a class="nav-link active" aria-current="page" href="images.php">IMAGES</a>
               </li>
            </ul>
             <form class="d-flex">
