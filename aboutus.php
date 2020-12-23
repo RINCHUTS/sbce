@@ -55,13 +55,13 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="images\images (6).jpg" class="d-block w-100" alt="..." height="400" width="400">
+                    <img src="images\1-1-e1582310189554.png" class="d-block w-100" alt="..." height="400" width="400">
                   </div>
                   <div class="carousel-item">
-                    <img src="images\images (2).jpg" class="d-block w-100" alt="..."height="400" width="400">
+                    <img src="images\buddha (1).jpg" class="d-block w-100" alt="..."height="400" width="400">
                   </div>
                   <div class="carousel-item">
-                    <img src="images\images.png" class="d-block w-100" alt="..."height="400" width="400">
+                    <img src="images\1436334306_Computer_Center.jpg" class="d-block w-100" alt="..."height="400" width="400">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
